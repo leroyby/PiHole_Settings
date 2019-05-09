@@ -1,0 +1,104 @@
+# Adobe CC
+ns1.omtrdc.net
+ns2.omtrdc.net
+omtrdc.net
+
+#Amazon
+device-metrics-us-2.amazon.com
+device-metrics-us.amazon.com
+mas-ext.amazon.com
+
+# AliExpress
+ae01.alicdn.com
+
+# Dropbox
+ns1.dropbox.com
+ns2.dropbox.com
+
+#Facebook
+creative.ak.fbcdn.net
+external-lhr0-1.xx.fbcdn.net
+external-lhr10-1.xx.fbcdn.net
+external-lhr1-1.xx.fbcdn.net
+external-lhr2-1.xx.fbcdn.net
+external-lhr3-1.xx.fbcdn.net
+external-lhr4-1.xx.fbcdn.net
+external-lhr5-1.xx.fbcdn.net
+external-lhr6-1.xx.fbcdn.net
+external-lhr7-1.xx.fbcdn.net
+external-lhr8-1.xx.fbcdn.net
+external-lhr9-1.xx.fbcdn.net
+fbcdn-creative-a.akamaihd.net
+graph.facebook.com
+scontent-lhr3-1.xx.fbcdn.net
+scontent.xx.fbcdn.net
+scontent.fgdl5-1.fna.fbcdn.net
+facebook.net
+fbcdn.net
+cdn.fbsbx.com
+edge-mqtt.facebook.com
+0-edge-chat.facebook.com
+1-edge-chat.facebook.com
+2-edge-chat.facebook.com
+3-edge-chat.facebook.com
+4-edge-chat.facebook.com
+5-edge-chat.facebook.com
+6-edge-chat.facebook.com
+edge-chat.facebook.com
+
+# Instagram
+graph.instagram.com
+
+# Netflix
+api-global.netflix.com
+ichnaea.netflix.com
+appboot.netflix.com
+secure.netflix.com
+
+# URL-Shorter
+adf.ly
+www.adf.ly
+bit.ly
+www.bit.ly
+goo.gl
+ow.ly
+www.ow.ly
+
+# Google
+0.client-channel.google.com
+2.android.pool.ntp.org
+
+# Streaming
+Spotify.com
+itunes.com
+
+# Whatsapp
+web.whatsapp.com
+
+# Smarthome
+fw.ota.homesmart.ikea.net
+
+# Sophos
+4.sophosxl.net
+
+# Websites
+metrics.dickssportinggoods.com
+dickssportinggoods.com
+synology.com
+twitter.com
+youtube.com
+youtu.be
+github.com
+github.io
+yahoo.com
+wordpress.com
+wp.com
+twitter.com
+
+# Later use #
+# Spotify
+# mobile-ap.spotify.com
+# apresolve.spotify.com
+# upgrade.scdn.com
+# market.spotify.com
+#spclient.wg.spotify.com
