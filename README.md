@@ -2,7 +2,7 @@
 For Whitelist-Script: Thanks to anudeepND https://github.com/anudeepND
 
 ## Important
-Please Whitelist the following domains before you use this repo
+Please add the following sites to the PiHole-Whitelist before you use this repo
 
 ```
 raw.githubusercontent.com
@@ -20,9 +20,15 @@ sudo chmod +x whitelistdomains.sh
 sudo ./whitelistdomains.sh
 
 ```
-
-
-### Licence
+### Usage of Blacklist   
+```
+1. Open PiHole admin Websites (may you have to login)
+2. Navigate to "Settings"
+3. Change to "Blocklists"
+4. Copy the URL "https://raw.githubusercontent.com/leroyby/PiHole_Settings/master/domains/blockeddomains.txt"
+5. Paste the url into the field with the caption "Enter one URL per line to add new blocklists"
+6. Click Save and Update
+7. Enjoy adblocking
 ```
 MIT License
 
