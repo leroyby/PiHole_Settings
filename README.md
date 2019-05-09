@@ -3,8 +3,11 @@ For Whitelist-Script: Thanks to anudeepND https://github.com/anudeepND
 
 ## Important
 Please Whitelist the following domains before you use this repo
+
+```
 raw.githubusercontent.com
 githubusercontent.com
+```
 
 ### Installation and Usage of Whitelist   
 ```
