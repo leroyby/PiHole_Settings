@@ -22,7 +22,7 @@ sudo ./whitelistdomains.sh
 ```
 ### Usage of Blacklist   
 ```
-1. Open PiHole admin Websites (may you have to login)
+1. Open PiHole admin Websites (maybe you have to login)
 2. Navigate to "Settings"
 3. Change to "Blocklists"
 4. Copy the URL "https://raw.githubusercontent.com/leroyby/PiHole_Settings/master/domains/blockeddomains.txt"
@@ -31,8 +31,6 @@ sudo ./whitelistdomains.sh
 7. Enjoy adblocking
 ```
 MIT License
-
-Copyright (c) 2018 Anudeep ND <anudeep@protonmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
