@@ -16,12 +16,7 @@ if [ "$(id -u)" != "0" ] ; then
 	exit 2
 fi
 
-<<<<<<< HEAD
 curl -sS https://raw.githubusercontent.com/leroyby/PiHole_Settings/master/domains/whitelistedomains.txt | sudo tee -a /etc/pihole/whitelist.txt >/dev/null
-=======
-
-curl -sS https://raw.githubusercontent.com/leroyby/PiHole_Settings/master/domains/whitelistedomains.txt  | sudo tee -a /etc/pihole/whitelist.txt >/dev/null
->>>>>>> parent of 0f0dc9f... Update specialdomains.sh
 echo -e " ${TICK} \e[32m Adding to whitelist... \e[0m"
 sleep 0.1
 echo -e " ${TICK} \e[32m Removing duplicates... \e[0m"
