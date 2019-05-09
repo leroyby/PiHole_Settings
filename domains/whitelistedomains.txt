@@ -95,6 +95,9 @@ wordpress.com
 wp.com
 twitter.com
 
+# Testing
+testdomain123.com
+
 # Later use #
 # Spotify
 # mobile-ap.spotify.com
