@@ -1,6 +1,29 @@
+# PiHole_Settings
+For Whitelist-Script: Thanks to anudeepND https://github.com/anudeepND
+
+## Important
+Please Whitelist the following domains before you use this repo
+raw.githubusercontent.com
+githubusercontent.com
+
+### Installation and Usage of Whitelist   
+```
+git clone https://github.com/leroyby/PiHole_Settings.git
+
+cd PiHole_Settings/scripts
+
+sudo chmod +x whitelistdomains.sh
+
+sudo ./whitelistdomains.sh
+
+```
+
+
+### Licence
+```
 MIT License
 
-Copyright (c) 2019 leroyby
+Copyright (c) 2018 Anudeep ND <anudeep@protonmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +42,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
