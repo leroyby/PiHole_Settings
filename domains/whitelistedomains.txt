@@ -11,6 +11,9 @@ mas-ext.amazon.com
 # AliExpress
 ae01.alicdn.com
 
+# Apple
+itunes.com
+icloud.com
 # Dropbox
 ns1.dropbox.com
 ns2.dropbox.com
@@ -46,6 +49,18 @@ edge-mqtt.facebook.com
 6-edge-chat.facebook.com
 edge-chat.facebook.com
 
+# Microsoft
+microsoft.com
+fs.microft.com
+client.wns.windows.com
+microsoftonline.com
+win10.ipv6.microsoft.com
+xbox.ipv6.microsoft.com
+xboxexperiencesprod.experimentation.xboxlive.com
+xflight.xboxlive.com
+xkms.xboxlive.com
+xsts.auth.xboxlive.com
+
 # Instagram
 graph.instagram.com
 
@@ -68,9 +83,9 @@ www.ow.ly
 0.client-channel.google.com
 2.android.pool.ntp.org
 
-# Streaming
-Spotify.com
-itunes.com
+# Spotify
+spotify.com
+spclient.wg.spotify.com
 
 # Whatsapp
 web.whatsapp.com
@@ -81,6 +96,12 @@ fw.ota.homesmart.ikea.net
 # Sophos
 4.sophosxl.net
 
+# github
+github.com
+github.io
+raw.github.com
+raw.github.io
+
 # Websites
 metrics.dickssportinggoods.com
 dickssportinggoods.com
@@ -88,12 +109,12 @@ synology.com
 twitter.com
 youtube.com
 youtu.be
-github.com
-github.io
-yahoo.com
+wikipedia.org
 wordpress.com
 wp.com
+yahoo.com
 twitter.com
+vimeo.com
 
 # Testing
 testdomain123.com
