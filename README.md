@@ -5,8 +5,8 @@ For Whitelist-Script: Thanks to anudeepND https://github.com/anudeepND
 Please add the following sites to the PiHole-Whitelist before you use this repo
 
 ```
-raw.githubusercontent.com
 githubusercontent.com
+raw.githubusercontent.com
 ```
 
 ### Installation and Usage of Whitelist   
