@@ -102,12 +102,20 @@ github.io
 raw.github.com
 raw.github.io
 
+# tbc
+beacons2.gvt2.com
+
+# Google YouTube and more
+youtube.com
+r3---sn-4g5edn7s.googlevideo.com
+0.client-channel.google.com
+2.android.pool.ntp.org
+
 # Websites
 metrics.dickssportinggoods.com
 dickssportinggoods.com
 synology.com
 twitter.com
-youtube.com
 youtu.be
 wikipedia.org
 wordpress.com
@@ -126,3 +134,6 @@ testdomain123.com
 # upgrade.scdn.com
 # market.spotify.com
 #spclient.wg.spotify.com
+
+# To sort
+v10.events.data.microsoft.com
