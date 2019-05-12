@@ -100,6 +100,7 @@ app.plex.tv
 cpms.spop10.ams.plex.bz
 cpms35.spop10.ams.plex.bz
 tvthemes.plexapp.com
+my.plexapp.com
 
 # Instagram
 graph.instagram.com
