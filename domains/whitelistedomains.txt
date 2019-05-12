@@ -7,13 +7,18 @@ omtrdc.net
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 mas-ext.amazon.com
+amazonaws.com
 
 # AliExpress
 ae01.alicdn.com
+login.aliexpress.com
 
 # Apple
 itunes.com
 icloud.com
+appleid.apple.com
+ocsp.apple.com
+
 # Dropbox
 ns1.dropbox.com
 ns2.dropbox.com
@@ -60,6 +65,41 @@ xboxexperiencesprod.experimentation.xboxlive.com
 xflight.xboxlive.com
 xkms.xboxlive.com
 xsts.auth.xboxlive.com
+onedrive.live.com
+outlook.live.com
+outlook.office365.com
+pricelist.skype.com
+products.office.com
+skype.com
+title.auth.xboxlive.com
+title.mgt.xboxlive.com
+android.clients.google.com
+c.s-microsoft.com
+cert.mgt.xboxlive.com
+ctldl.windowsupdate.com
+def-vef.xboxlive.com
+eds.xboxlive.com
+www.xboxlive.com
+ui.skype.com
+live.com
+login.live.com
+login.microsoftonline.com
+m.hotmail.com
+
+# Plex
+plex.tv
+www.plex.tv
+proxy.plex.bz
+proxy.plex.tv
+proxy02.pop.ord.plex.bz
+pubsub.plex.bz
+pubsub.plex.tv
+tvdb2.plex.tv
+dashboard.plex.tv
+app.plex.tv
+cpms.spop10.ams.plex.bz
+cpms35.spop10.ams.plex.bz
+tvthemes.plexapp.com
 
 # Instagram
 graph.instagram.com
@@ -75,13 +115,32 @@ adf.ly
 www.adf.ly
 bit.ly
 www.bit.ly
-goo.gl
 ow.ly
 www.ow.ly
 
-# Google
+# Google YouTube and more
+goo.gl
+youtube.com
+cse.google.com
+r3---sn-4g5edn7s.googlevideo.com
 0.client-channel.google.com
 2.android.pool.ntp.org
+instantmessaging-pa.googleapis.com
+0.client-channel.google.com
+2.android.pool.ntp.org
+s2.youtube.com
+www.googleapis.com
+clients1.google.com
+clients2.google.com
+clients3.google.com
+clients4.google.com
+clients5.google.com
+clients6.google.com
+youtu.be
+youtube-nocookie.com
+appsbackup-pa.clients6.google.com
+appsbackup-pa.googleapis.com
+manifest.googlevideo.com
 
 # Spotify
 spotify.com
@@ -102,15 +161,6 @@ github.io
 raw.github.com
 raw.github.io
 
-# tbc
-beacons2.gvt2.com
-
-# Google YouTube and more
-youtube.com
-r3---sn-4g5edn7s.googlevideo.com
-0.client-channel.google.com
-2.android.pool.ntp.org
-
 # Websites
 metrics.dickssportinggoods.com
 dickssportinggoods.com
@@ -123,6 +173,10 @@ wp.com
 yahoo.com
 twitter.com
 vimeo.com
+
+# twitter
+twimg.com
+twitter.com
 
 # Testing
 testdomain123.com
@@ -137,3 +191,8 @@ testdomain123.com
 
 # To sort
 v10.events.data.microsoft.com
+cdn2.optimizely.com
+cdn3.optimizely.com
+optimizely.com
+beacons2.gvt2.com
+bufferapp.com
