@@ -8,6 +8,7 @@ device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 mas-ext.amazon.com
 amazonaws.com
+s3.amazonaws.com
 
 # AliExpress
 ae01.alicdn.com
@@ -22,6 +23,8 @@ ocsp.apple.com
 # Dropbox
 ns1.dropbox.com
 ns2.dropbox.com
+dl.dropbox.com
+dl.dropboxusercontent.com
 
 #Facebook
 creative.ak.fbcdn.net
@@ -73,7 +76,6 @@ products.office.com
 skype.com
 title.auth.xboxlive.com
 title.mgt.xboxlive.com
-android.clients.google.com
 c.s-microsoft.com
 cert.mgt.xboxlive.com
 ctldl.windowsupdate.com
@@ -85,6 +87,10 @@ live.com
 login.live.com
 login.microsoftonline.com
 m.hotmail.com
+device.auth.xboxlive.com
+displaycatalog.mp.microsoft.com
+dl.delivery.mp.microsoft.com
+support.microsoft.com
 
 # Plex
 plex.tv
@@ -101,6 +107,11 @@ cpms.spop10.ams.plex.bz
 cpms35.spop10.ams.plex.bz
 tvthemes.plexapp.com
 my.plexapp.com
+meta-db-worker02.pop.ric.plex.bz
+meta.plex.bz
+meta.plex.tv
+staging.plex.tv
+status.plex.tv
 
 # Instagram
 graph.instagram.com
@@ -118,6 +129,7 @@ bit.ly
 www.bit.ly
 ow.ly
 www.ow.ly
+tinyurl.com
 
 # Google YouTube and more
 goo.gl
@@ -127,8 +139,6 @@ r3---sn-4g5edn7s.googlevideo.com
 0.client-channel.google.com
 2.android.pool.ntp.org
 instantmessaging-pa.googleapis.com
-0.client-channel.google.com
-2.android.pool.ntp.org
 s2.youtube.com
 www.googleapis.com
 clients1.google.com
@@ -137,11 +147,13 @@ clients3.google.com
 clients4.google.com
 clients5.google.com
 clients6.google.com
+android.clients.google.com
 youtu.be
 youtube-nocookie.com
 appsbackup-pa.clients6.google.com
 appsbackup-pa.googleapis.com
 manifest.googlevideo.com
+video-stats.l.google.com
 
 # Spotify
 spotify.com
@@ -155,7 +167,6 @@ fw.ota.homesmart.ikea.net
 
 # Sophos
 4.sophosxl.net
-
 # github
 github.com
 github.io
@@ -167,28 +178,30 @@ metrics.dickssportinggoods.com
 dickssportinggoods.com
 synology.com
 twitter.com
-youtu.be
 wikipedia.org
 wordpress.com
 wp.com
 yahoo.com
-twitter.com
 vimeo.com
-
+www.no-ip.com
+www.solaredge.com
+www.synology.com
+www.twitter.com
+download.sonarr.tv
+drift.com
+driftt.com
 # twitter
 twimg.com
-twitter.com
 
 # Testing
-testdomain123.com
 
-# Later use #
-# Spotify
+# Later use
 # mobile-ap.spotify.com
 # apresolve.spotify.com
 # upgrade.scdn.com
 # market.spotify.com
-#spclient.wg.spotify.com
+# spclient.wg.spotify.com
+# tawk.to
 
 # To sort
 v10.events.data.microsoft.com
@@ -197,3 +210,6 @@ cdn3.optimizely.com
 optimizely.com
 beacons2.gvt2.com
 bufferapp.com
+dataplicity.com
+dynupdate.no-ip.com
+geo-prod.do.dsp.mp.microsoft.com
