@@ -63,6 +63,7 @@ fs.microft.com
 client.wns.windows.com
 microsoftonline.com
 win10.ipv6.microsoft.com
+continuum.dds.microsoft.com
 xbox.ipv6.microsoft.com
 xboxexperiencesprod.experimentation.xboxlive.com
 xflight.xboxlive.com
