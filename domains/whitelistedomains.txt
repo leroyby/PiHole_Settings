@@ -116,6 +116,7 @@ status.plex.tv
 
 # Instagram
 graph.instagram.com
+i.instagram.com
 
 # Netflix
 api-global.netflix.com
