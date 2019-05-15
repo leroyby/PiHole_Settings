@@ -4,10 +4,10 @@ ns2.omtrdc.net
 omtrdc.net
 
 #Amazon
+amazonaws.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 mas-ext.amazon.com
-amazonaws.com
 s3.amazonaws.com
 
 # AliExpress
@@ -15,22 +15,32 @@ ae01.alicdn.com
 login.aliexpress.com
 
 # Apple
-itunes.com
-icloud.com
 appleid.apple.com
+icloud.com
+itunes.com
 ocsp.apple.com
 
 # Dropbox
-ns1.dropbox.com
-ns2.dropbox.com
 dl.dropbox.com
 dl.dropboxusercontent.com
+ns1.dropbox.com
+ns2.dropbox.com
 
 #Facebook
+0-edge-chat.facebook.com
+1-edge-chat.facebook.com
+2-edge-chat.facebook.com
+3-edge-chat.facebook.com
+4-edge-chat.facebook.com
+5-edge-chat.facebook.com
+6-edge-chat.facebook.com
+cdn.fbsbx.com
 creative.ak.fbcdn.net
+edge-chat.facebook.com
+edge-mqtt.facebook.com
 external-lhr0-1.xx.fbcdn.net
-external-lhr10-1.xx.fbcdn.net
 external-lhr1-1.xx.fbcdn.net
+external-lhr10-1.xx.fbcdn.net
 external-lhr2-1.xx.fbcdn.net
 external-lhr3-1.xx.fbcdn.net
 external-lhr4-1.xx.fbcdn.net
@@ -39,80 +49,79 @@ external-lhr6-1.xx.fbcdn.net
 external-lhr7-1.xx.fbcdn.net
 external-lhr8-1.xx.fbcdn.net
 external-lhr9-1.xx.fbcdn.net
+facebook.net
 fbcdn-creative-a.akamaihd.net
+fbcdn.net
 graph.facebook.com
 scontent-lhr3-1.xx.fbcdn.net
-scontent.xx.fbcdn.net
 scontent.fgdl5-1.fna.fbcdn.net
-facebook.net
-fbcdn.net
-cdn.fbsbx.com
-edge-mqtt.facebook.com
-0-edge-chat.facebook.com
-1-edge-chat.facebook.com
-2-edge-chat.facebook.com
-3-edge-chat.facebook.com
-4-edge-chat.facebook.com
-5-edge-chat.facebook.com
-6-edge-chat.facebook.com
-edge-chat.facebook.com
+scontent.xx.fbcdn.net
 
 # Microsoft
-microsoft.com
-fs.microft.com
+apps.skype.com
+attestation.xboxlive.com
+bing.com
+c.s-microsoft.com
+cert.mgt.xboxlive.com
 client.wns.windows.com
-microsoftonline.com
-win10.ipv6.microsoft.com
 continuum.dds.microsoft.com
-xbox.ipv6.microsoft.com
-xboxexperiencesprod.experimentation.xboxlive.com
-xflight.xboxlive.com
-xkms.xboxlive.com
-xsts.auth.xboxlive.com
+ctldl.windowsupdate.com
+def-vef.xboxlive.com
+device.auth.xboxlive.com
+displaycatalog.mp.microsoft.com
+dl.delivery.mp.microsoft.com
+eds.xboxlive.com
+fs.microft.com
+live.com
+login.live.com
+login.microsoftonline.com
+m.hotmail.com
+microsoft.com
+microsoftonline.com
+office.com
+office.net
+office365.com
+officeclient.microsoft.com
 onedrive.live.com
 outlook.live.com
 outlook.office365.com
 pricelist.skype.com
 products.office.com
 skype.com
+s.gateway.messenger.live.com
+clientconfig.passport.net
+support.microsoft.com
 title.auth.xboxlive.com
 title.mgt.xboxlive.com
-c.s-microsoft.com
-cert.mgt.xboxlive.com
-ctldl.windowsupdate.com
-def-vef.xboxlive.com
-eds.xboxlive.com
-www.xboxlive.com
 ui.skype.com
-live.com
-login.live.com
-login.microsoftonline.com
-m.hotmail.com
-device.auth.xboxlive.com
-displaycatalog.mp.microsoft.com
-dl.delivery.mp.microsoft.com
-support.microsoft.com
+win10.ipv6.microsoft.com
+www.xboxlive.com
+xbox.ipv6.microsoft.com
+xboxexperiencesprod.experimentation.xboxlive.com
+xflight.xboxlive.com
+xkms.xboxlive.com
+xsts.auth.xboxlive.com
 
 # Plex
+app.plex.tv
+cpms.spop10.ams.plex.bz
+cpms35.spop10.ams.plex.bz
+dashboard.plex.tv
+meta-db-worker02.pop.ric.plex.bz
+meta.plex.bz
+meta.plex.tv
+my.plexapp.com
 plex.tv
-www.plex.tv
 proxy.plex.bz
 proxy.plex.tv
 proxy02.pop.ord.plex.bz
 pubsub.plex.bz
 pubsub.plex.tv
-tvdb2.plex.tv
-dashboard.plex.tv
-app.plex.tv
-cpms.spop10.ams.plex.bz
-cpms35.spop10.ams.plex.bz
-tvthemes.plexapp.com
-my.plexapp.com
-meta-db-worker02.pop.ric.plex.bz
-meta.plex.bz
-meta.plex.tv
 staging.plex.tv
 status.plex.tv
+tvdb2.plex.tv
+tvthemes.plexapp.com
+www.plex.tv
 
 # Instagram
 graph.instagram.com
@@ -134,28 +143,31 @@ www.ow.ly
 tinyurl.com
 
 # Google YouTube and more
-goo.gl
-youtube.com
-cse.google.com
-r3---sn-4g5edn7s.googlevideo.com
+s.youtube.com
+s.ytimg.com
 0.client-channel.google.com
 2.android.pool.ntp.org
-instantmessaging-pa.googleapis.com
-s2.youtube.com
-www.googleapis.com
+android.clients.google.com
+appsbackup-pa.clients6.google.com
+appsbackup-pa.googleapis.com
 clients1.google.com
 clients2.google.com
 clients3.google.com
 clients4.google.com
 clients5.google.com
 clients6.google.com
-android.clients.google.com
+cse.google.com
+g.live.com
+goo.gl
+instantmessaging-pa.googleapis.com
+manifest.googlevideo.com
+r3---sn-4g5edn7s.googlevideo.com
+s2.youtube.com
+video-stats.l.google.com
+www.googleapis.com
 youtu.be
 youtube-nocookie.com
-appsbackup-pa.clients6.google.com
-appsbackup-pa.googleapis.com
-manifest.googlevideo.com
-video-stats.l.google.com
+youtube.com
 
 # Spotify
 spotify.com
@@ -178,20 +190,22 @@ raw.github.io
 # Websites
 metrics.dickssportinggoods.com
 dickssportinggoods.com
+download.sonarr.tv
+drift.com
+driftt.com
+reddit.com
 synology.com
 twitter.com
+vimeo.com
 wikipedia.org
 wordpress.com
 wp.com
-yahoo.com
-vimeo.com
 www.no-ip.com
 www.solaredge.com
 www.synology.com
 www.twitter.com
-download.sonarr.tv
-drift.com
-driftt.com
+yahoo.com
+
 # twitter
 twimg.com
 
