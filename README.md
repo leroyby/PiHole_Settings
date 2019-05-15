@@ -2,17 +2,11 @@
 For Whitelist-Script: Thanks to anudeepND https://github.com/anudeepND
 
 ## Important
-Please add the following sites to the PiHole-Whitelist manually before you use this repo
+Please add the following sites to the PiHole-Whitelist before you use this repo
 
 ```
 githubusercontent.com
 raw.githubusercontent.com
-
-How to:
-1. Open ssh connection to your PiHole-server (putty or other software required)
-2. Login with username and passwort
-3.  pihole -w githubusercontent.com
-4. pihole -w raw.githubusercontent.come
 ```
 
 ### Installation and Usage of Whitelist   
@@ -24,8 +18,6 @@ cd PiHole_Settings/scripts
 sudo chmod +x whitelistdomains.sh
 
 sudo ./whitelistdomains.sh
-
-- repeat from time to time
 
 ```
 ### Usage of Blacklist   
