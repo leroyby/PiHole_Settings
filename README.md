@@ -18,11 +18,8 @@ How to:
 ### Installation and Usage of Whitelist   
 ```
 git clone https://github.com/leroyby/PiHole_Settings.git
-
 cd PiHole_Settings/scripts
-
 sudo chmod +x whitelistdomains.sh
-
 sudo ./whitelistdomains.sh
 
 - repeat from time to time
