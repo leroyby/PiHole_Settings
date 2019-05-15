@@ -12,7 +12,7 @@ How to:
 1. Open ssh connection to your PiHole-server (putty or other software required)
 2. Login with username and password
 3. pihole -w githubusercontent.com
-4. pihole -w raw.githubusercontent.come
+4. pihole -w raw.githubusercontent.com
 ```
 
 ### Installation and Usage of Whitelist   
