@@ -13,6 +13,7 @@ s3.amazonaws.com
 # AliExpress
 ae01.alicdn.com
 login.aliexpress.com
+best.aliexpress.com
 
 # Apple
 appleid.apple.com
@@ -144,6 +145,7 @@ tinyurl.com
 
 # Google YouTube and more
 s.youtube.com
+googleapis.l.google.com
 s.ytimg.com
 0.client-channel.google.com
 2.android.pool.ntp.org
@@ -229,3 +231,6 @@ bufferapp.com
 dataplicity.com
 dynupdate.no-ip.com
 geo-prod.do.dsp.mp.microsoft.com
+assets.jimstatic.com
+u.jimcdn.com
+9gag.com
