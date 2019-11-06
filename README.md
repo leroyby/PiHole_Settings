@@ -1,3 +1,5 @@
+Please visit <https://pi-hole.net/> for basic information about PiHole.
+
 # PiHole_Settings
 For Whitelist-Script: Thanks to anudeepND https://github.com/anudeepND
 
@@ -37,6 +39,12 @@ sudo ./whitelistdomains.sh
 5. Paste the url into the field with the caption "Enter one URL per line to add new blocklists"
 6. Click "Save and Update"
 7. Enjoy adblocking
+```
+### Apendix
+```
+The Updateschedule for the files isn't fixed, as you may see there can be a big gap between the Updates.
+
+But this shouldn't stop you from using this Lists to expand your PiHole-Installation
 ```
 
 MIT License
