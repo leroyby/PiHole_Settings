@@ -17,7 +17,7 @@ How to:
 4. pihole -w raw.githubusercontent.com
 ```
 
-### Installation and Usage of Whitelist   
+## Installation and Usage of Whitelist   
 ```
 In a SSH-Session:
 git clone https://github.com/leroyby/PiHole_Settings.git
@@ -30,7 +30,7 @@ cd PiHole_Settings/scripts
 sudo ./whitelistdomains.sh
 
 ```
-### Usage of Blacklist   
+## Usage of Blacklist   
 ```
 1. Open PiHole admin Website (maybe you have to login)
 2. Navigate to "Settings"
@@ -47,6 +47,8 @@ The Updateschedule for the files isn't fixed, as you may see there can be a big 
 But this shouldn't stop you from using this Lists to expand your PiHole-Installation
 ```
 
+### License
+```
 MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
