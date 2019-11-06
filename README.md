@@ -17,12 +17,15 @@ How to:
 
 ### Installation and Usage of Whitelist   
 ```
+In a SSH-Session:
 git clone https://github.com/leroyby/PiHole_Settings.git
 cd PiHole_Settings/scripts
 sudo chmod +x whitelistdomains.sh
 sudo ./whitelistdomains.sh
 
-- repeat from time to time
+- repeat this from time to time:
+cd PiHole_Settings/scripts
+sudo ./whitelistdomains.sh
 
 ```
 ### Usage of Blacklist   
@@ -34,7 +37,6 @@ sudo ./whitelistdomains.sh
 5. Paste the url into the field with the caption "Enter one URL per line to add new blocklists"
 6. Click "Save and Update"
 7. Enjoy adblocking
-
 ```
 
 MIT License
