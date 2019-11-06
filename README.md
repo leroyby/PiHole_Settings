@@ -34,6 +34,7 @@ sudo ./whitelistdomains.sh
 5. Paste the url into the field with the caption "Enter one URL per line to add new blocklists"
 6. Click "Save and Update"
 7. Enjoy adblocking
+
 ```
 
 MIT License
