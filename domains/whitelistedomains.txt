@@ -1,3 +1,4 @@
+apple.com
 ns1.omtrdc.net
 ns2.omtrdc.net
 omtrdc.net
