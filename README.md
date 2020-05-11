@@ -1,5 +1,7 @@
 Please visit <https://pi-hole.net/> for basic information about PiHole.
 
+Want to report a new or a exsisting domain? Please open an issue.
+
 # PiHole_Settings
 For Whitelist-Script: Thanks to anudeepND https://github.com/anudeepND
 
@@ -28,6 +30,15 @@ sudo ./whitelistdomains.sh
 - repeat this from time to time:
 cd PiHole_Settings/scripts
 sudo ./whitelistdomains.sh
+```
+
+#### Automatic Whitelist Updates
+```
+1. cd /opt/
+2. sudo git clone https://github.com/leroyby/PiHole_Settings.git
+3. sudo nano /etc/crontab
+4. add the following line at the end of the file
+0 1 * * */7 root /opt/whitelist/scripts/whitelist.sh
 
 ```
 ## Usage of Blacklist   
