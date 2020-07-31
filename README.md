@@ -44,12 +44,13 @@ sudo ./whitelistdomains.sh
 ## Usage of Blacklist   
 ```
 1. Open PiHole admin Website (maybe you have to login)
-2. Navigate to "Settings"
-3. Change to "Blocklists"
+2. Navigate to "Group Management"
+3. And Navigate to "Adlist"
 4. Copy the URL "https://raw.githubusercontent.com/leroyby/PiHole_Settings/master/domains/blockeddomains.txt"
-5. Paste the url into the field with the caption "Enter one URL per line to add new blocklists"
-6. Click "Save and Update"
-7. Enjoy adblocking
+5. Paste the url into the field "Address:"
+6. Click "Add"
+7. Make sure the "Group assignment" is "Default" and the List has the "Status" "Enabled"
+8. Enjoy adblocking
 ```
 ### Apendix
 ```
