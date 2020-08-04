@@ -1,3 +1,13 @@
+mobile-ap.spotify.com
+apresolve.spotify.com
+upgrade.scdn.com
+api-global.netflix.com
+ichnaea.netflix.com
+appboot.netflix.com
+secure.netflix.com
+market.spotify.com
+spclient.wg.spotify.com
+audio-ake.spotify.com.edgesuite.net
 ns1.omtrdc.net
 ns2.omtrdc.net
 omtrdc.net
