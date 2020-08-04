@@ -46,7 +46,8 @@ sudo ./whitelistdomains.sh
 1. Open PiHole admin Website (maybe you have to login)
 2. Navigate to "Group Management"
 3. And Navigate to "Adlist"
-4. Copy the URL "https://raw.githubusercontent.com/leroyby/PiHole_Settings/master/domains/blockeddomains.txt"
+4. Copy the URL
+"https://raw.githubusercontent.com/leroyby/PiHole_Settings/master/domains/blockeddomains.txt"
 5. Paste the url into the field "Address:"
 6. Click "Add"
 7. Make sure the "Group assignment" is "Default" and the List has the "Status" "Enabled"
@@ -54,7 +55,8 @@ sudo ./whitelistdomains.sh
 ```
 ### Apendix
 ```
-The Updateschedule for the files isn't fixed, as you may see there can be a big gap between the Updates.
+The Updateschedule for the files isn't fixed,
+as you may see there can be a big gap between the Updates.
 
 But this shouldn't stop you from using this Lists to expand your PiHole-Installation
 ```
