@@ -10322,7 +10322,6 @@ adservice.tohsoft.com
 adserving.aan.speedshiftmedia.com
 adserving.speedshiftmedia.com
 adservme.com
-adservone.com
 adsfile.qq.com
 adsfs.oppomobile.com
 adsgroup.qq.com
@@ -33715,7 +33714,7 @@ n479ad.doubleclick.net
 n4p.ru.redtram.com
 n4p.ua.redtram.com
 n9bcd.ads.tremorhub.com
-na.ads.yahoo.com<!--HL:E-->
+na.ads.yahoo.com
 na.tns-cs.net
 na47.com
 nacktefrauen.pics
@@ -38269,7 +38268,7 @@ telefonica.webnavegador.com.br
 telefonino.it.intellitxt.com
 telegraphcouk.skimlinks.com
 telemetry.appex.bing.net
-telemetry.appex.bing.net:443
+telemetry.appex.bing.net
 telemetry.microsoft.com
 telemetry.microsoft.com.nsatc.net
 telemetry.urs.microsoft.com
@@ -39668,7 +39667,7 @@ world.popadscdn.net
 worldnetdaily.us.intellitxt.com
 worldnow.com
 worldnowboston.112.2o7.net
-worldsearchpro.com<!--HL:E-->
+worldsearchpro.com
 worldsoftwaredownloads.com
 world-trade-center.hawaiicity.com
 worldtravelguide.uk.intellitxt.com
@@ -39844,7 +39843,7 @@ www.adcode.ws
 www.adcomplete.com
 www.adcycle.com
 www.addfreecounter.com
-www.addfreestats.comCode]
+www.addfreestats.comCode
 www.addthiscdn.com
 www.adelixir.com
 www.ademails.com
